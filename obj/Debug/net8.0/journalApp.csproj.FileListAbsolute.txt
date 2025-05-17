@@ -16,3 +16,4 @@ F:\BYU\term3\program-class\week2\journalApp\obj\Debug\net8.0\refint\journalApp.d
 F:\BYU\term3\program-class\week2\journalApp\obj\Debug\net8.0\journalApp.pdb
 F:\BYU\term3\program-class\week2\journalApp\obj\Debug\net8.0\journalApp.genruntimeconfig.cache
 F:\BYU\term3\program-class\week2\journalApp\obj\Debug\net8.0\ref\journalApp.dll
+F:\BYU\term3\program-class\week2\journalApp\obj\Debug\net8.0\journalApp.sourcelink.json
