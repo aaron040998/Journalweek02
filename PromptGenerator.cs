@@ -1,3 +1,8 @@
+// PromptGenerator.cs
+// -------------------------------------------------------
+// Responsible for storing and returning random journal prompts.
+// Allows easy expansion of prompt list without modifying Journal logic.
+
 using System;
 using System.Collections.Generic;
 
@@ -16,6 +21,7 @@ public class PromptGenerator
 
     private readonly Random _random = new Random();
 
+    // Returns a random prompt from the list
     public string GetRandomPrompt()
     {
         int index = _random.Next(_prompts.Count);
